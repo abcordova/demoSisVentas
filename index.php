@@ -9,6 +9,7 @@
     <div class="container">
         <div class="row">
             <a href="php/view/sale/newSale.php">VENTA</a>
+            <a href="php/view/person/listPerson.php">PERSONA</a>
         </div>
     </div>
 </body>
