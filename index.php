@@ -8,7 +8,7 @@
 <body>
     <div class="container">
         <div class="row">
-            <a href=""></a>
+            <a href="php/view/sale/newSale.php">VENTA</a>
         </div>
     </div>
 </body>
